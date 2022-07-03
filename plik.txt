@@ -1,1 +1,3 @@
 /inna wersja pliku
+
+nowa funkcjonalość
